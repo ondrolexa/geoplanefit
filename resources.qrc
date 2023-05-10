@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/geoplanefit" >
+        <file>icons/toolicon.png</file>
+        <file>icons/digicon.png</file>
+    </qresource>
+</RCC>
