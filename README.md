@@ -5,7 +5,6 @@ The plugin provides the following functionalities:
 1) Fitting plane to traced line over DEM.
 2) Export collected lines as JSON file
 3) Export traces as GeoJSON file
-4) 
 
 ### Install instructions
 
